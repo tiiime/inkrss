@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InkRss</string>
+    <string name="title_activity_rss_source_edit">AddRssSource</string>
+    <string name="title_activity_rss_feeds">RssFeeds</string>
 </resources>
